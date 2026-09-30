@@ -68,7 +68,7 @@ disease_classes = [
 
 nutrient_classes = ["Healthy","Nitrogen","Phosphorus","Potassium"]
 
-API_KEY = os.environ.get("OPENWEATHER_API_KEY")
+API_KEY = "e78ee0e517b617b3f082bb1ddddd6d31"
 
 # -------------------------------------------------------
 # ROUTES
